@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', Verdana, Geneva, Tahoma, sans-serif;
 }
 header
 {
@@ -27,8 +27,8 @@ header .logo
 .toggle
 {
   position: relative;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   background: url(https://i.ibb.co/HrfVRcx/menu.png);
   background-repeat: no-repeat;
   background-size: 30px;
@@ -39,7 +39,7 @@ header .logo
 {
   background: url(https://i.ibb.co/rt3HybH/close.png);
   background-repeat: no-repeat;
-  background-size: 25px;
+  background-size: 30px;
   background-position: center;
   cursor: pointer;
 }
@@ -91,7 +91,7 @@ header .logo
 .text h2
 {
   font-size: 5em;
-  font-weight: 800;
+  font-weight: 850;
   color: #fff;
   line-height: 1em;
   text-transform: uppercase;
